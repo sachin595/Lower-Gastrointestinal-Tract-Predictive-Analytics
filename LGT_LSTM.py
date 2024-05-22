@@ -76,11 +76,11 @@ st.title('Predictive Analytics for Lower Gastrointestinal Tract')
 # Creating form for input
 with st.form(key='prediction_form'):
     sex = st.selectbox('Sex', options=['Male', 'Female'])
-    year = st.selectbox('Year of Mortality Rate', options=list(range(1999, 2061)))
+    year = st.selectbox('Year', options=list(range(1999, 2061)))
     agegroup = st.selectbox('Age Group', options=[
         '1-4 years', '5-9 years', '10-14 years', '15-19 years', '20-24 years', '25-29 years', '30-34 years', '35-39 years', '40-44 years',           '45-49 years', '50-54 years', '55-59 years', '60-64 years', '65-69 years', '70-74 years', '75-79 years', '80-84 years', '85+ years'
     ])
-    ethnicity = st.selectbox('Ethnicity', options=['Hispanic', 'Non-Hispanic'])
+    ethnicity = st.selectbox('Hispanic / Non-Hispanic', options=['Hispanic', 'Non-Hispanic'])
     race =  st.selectbox('Race', options=['White','Black or African American', 'Asian or Pacific Islander', 'American Indian or Alaska Native'])
     
     submit_button = st.form_submit_button(label='Predict')
