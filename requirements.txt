@@ -1,8 +1,8 @@
 streamlit
 pandas
-numpy
+numpy==1.26.4
 joblib
 gdown
 tensorflow
-scikit-learn==1.2.2
+scikit-learn
 joblib==1.2.0
