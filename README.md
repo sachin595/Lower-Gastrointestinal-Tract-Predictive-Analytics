@@ -32,7 +32,9 @@ Predictive Modeling of Mortality Rates in Lower Gastrointestinal Tract Cancers U
 
 ## Introduction
 
-This project focuses on developing advanced predictive analytics for **Lower Gastrointestinal Tract Cancer** by utilizing a **Long Short-Term Memory (LSTM)** neural network. The model is designed to predict two key health metrics: **Crude Mortality Rate** (number of deaths per 100,000 individuals in a given year) and **Survival Rate** (likelihood of survival as a percentage). By leveraging demographic and temporal factors such as **age, sex, ethnicity, race, and year,** the model provides robust insights into health outcomes.
+Predicting mortality rates for **Lower Gastrointestinal Tract** cancers with precision is vital for refining treatment strategies and improving patient care. This study explores the use of a Long Short-Term Memory (LSTM) neural network to effectively model these rates using demographic and clinical information.
+
+The LSTM model focuses on predicting two essential health metrics: Crude Mortality Rate (the number of deaths per 100,000 individuals annually) and Survival Rate (the percentage likelihood of survival). By utilizing an extensive dataset incorporating demographic and temporal variables such as age, sex, ethnicity, race, and year, the model delivers valuable insights into health outcomes. These predictions aim to empower healthcare professionals to make informed decisions, address disparities, and provide tailored care for individuals with lower gastrointestinal tract cancers.
 
 Additionally, an interactive **diagnostic tool** has been deployed, allowing users to input specific demographic and temporal details to generate predictions. This tool serves as a practical application of the model, aiding researchers and healthcare professionals in assessing trends and disparities in **Lower Gastrointestinal Tract Cancer** outcomes. The project emphasizes precision and temporal modeling to support informed decision-making in public health and oncology.
 
