@@ -1,4 +1,5 @@
 # Lower Gastrointestinal Tract Cancer Predictive Analytics
+Predictive Modeling of Mortality Rates in Lower Gastrointestinal Tract Cancers Using LSTM
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lower-gastrointestinal-tract-lstm.streamlit.app/)
 
