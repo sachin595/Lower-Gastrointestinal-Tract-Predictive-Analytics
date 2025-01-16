@@ -8,9 +8,7 @@ Predictive Modeling of Mortality Rates in Lower Gastrointestinal Tract Cancers U
 [![Dataset](https://img.shields.io/badge/Dataset-CDC%20WONDER-blue)](https://wonder.cdc.gov/)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Model](https://img.shields.io/badge/Model-LSTM-red)
-![Pandas](https://img.shields.io/badge/Library-Pandas-yellow)
-![Numpy](https://img.shields.io/badge/Library-Numpy-yellow)
-![Scikit-learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
+![Libraries Used](https://img.shields.io/badge/Libraries-NumPy%2C%20Pandas%2C%20Scikit--Learn-yellow)
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange)
 
 
